@@ -1,0 +1,9 @@
+---
+applications:
+- name: ecad1513
+  random-route: true
+  path: target/Prac_2.war
+  memory: 512M
+  instances: 1
+  host: ecad1513
+  domain: au-syd.mybluemix.net
